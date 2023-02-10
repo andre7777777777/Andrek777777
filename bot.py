@@ -9,7 +9,7 @@ from aiogram.types import Message
 from aiogram import Bot, Dispatcher, executor, types
 from icmplib import async_multiping, async_ping
 
-API_TOKEN = '6055954803:AAH0tDtbUhGRX1eC3aWFU09_bbfzY13zScM'
+API_TOKEN = '6035713420:AAHLc8mmiW4dTRww7T4CTVC6B8blEmX7jVA'
 
 
 bot = Bot(token=API_TOKEN)
